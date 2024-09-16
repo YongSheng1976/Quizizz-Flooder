@@ -1,6 +1,4 @@
 ## **⚠️ Warning: Educational Use Only! ⚠️**
-
-## ** Showcase **
 ![image](https://github.com/user-attachments/assets/bebb34e9-14dc-4114-b47a-3e5b90993e84)
 
 ## **📦 Prerequisites**
