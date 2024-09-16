@@ -53,7 +53,7 @@ async def send_requests(session, request, num_requests):
 async def main():
 
     driver_url = input("\033[96mEnter quizizz link:\033[0m ")
-    num_requests = int(input("\033[96mEnter the amount of request (x2):\033[0m "))
+    num_requests = int(input("\033[96mEnter the amount of request:\033[0m "))
     
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
