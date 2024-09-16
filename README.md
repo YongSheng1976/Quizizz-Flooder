@@ -13,7 +13,7 @@ Before diving into the action, ensure you have the following:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/YongSheng1976/Quizizz-Flooder
-    cd cynx
+    cd Quizizz-Flooder
     ```
 
 2. **Install dependencies**:
